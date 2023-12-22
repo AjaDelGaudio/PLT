@@ -1,0 +1,19 @@
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/labasedeoperaciones/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-h7bqbz sitelibdir\=./.gem.20231221-15848-h7bqbz clean
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-h7bqbz sitelibdir\=./.gem.20231221-15848-h7bqbz
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-h7bqbz sitelibdir\=./.gem.20231221-15848-h7bqbz install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20231221-15848-h7bqbz
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-h7bqbz sitelibdir\=./.gem.20231221-15848-h7bqbz clean

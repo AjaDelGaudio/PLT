@@ -1,0 +1,20 @@
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/debug-1.9.1/ext/debug
+/Users/labasedeoperaciones/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-fq6l7z sitelibdir\=./.gem.20231221-15848-fq6l7z clean
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-fq6l7z sitelibdir\=./.gem.20231221-15848-fq6l7z
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-fq6l7z sitelibdir\=./.gem.20231221-15848-fq6l7z install
+/opt/homebrew/bin/ginstall -c -m 0755 debug.bundle ./.gem.20231221-15848-fq6l7z/debug
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-fq6l7z sitelibdir\=./.gem.20231221-15848-fq6l7z clean

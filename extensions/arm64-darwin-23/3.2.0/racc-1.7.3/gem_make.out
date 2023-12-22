@@ -1,0 +1,19 @@
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/racc-1.7.3/ext/racc/cparse
+/Users/labasedeoperaciones/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-nksevj sitelibdir\=./.gem.20231221-15848-nksevj clean
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-nksevj sitelibdir\=./.gem.20231221-15848-nksevj
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-nksevj sitelibdir\=./.gem.20231221-15848-nksevj install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20231221-15848-nksevj/racc
+
+current directory: /Users/labasedeoperaciones/workspace/PLT/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231221-15848-nksevj sitelibdir\=./.gem.20231221-15848-nksevj clean
